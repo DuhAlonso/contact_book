@@ -15,4 +15,6 @@
 
 ## Screenshots
 
-<img src="https://github.com/DuhAlonso/contact_book/blob/master/screenshots/home.png" width="250"><img src="https://github.com/DuhAlonso/contact_book/blob/master/screenshots/new_contact.png" width="250"><img src="https://github.com/DuhAlonso/contact_book/blob/master/screenshots/list_contacts.png" width="250"><img src="https://github.com/DuhAlonso/contact_book/blob/master/screenshots/actions.png" width="250"> 
+<img src="https://github.com/DuhAlonso/contact_book/blob/master/screenshots/home.png" width="250"> <img src="https://github.com/DuhAlonso/contact_book/blob/master/screenshots/new_contact.png" width="250"> 
+
+<img src="https://github.com/DuhAlonso/contact_book/blob/master/screenshots/list_contacts.png" width="250"> <img src="https://github.com/DuhAlonso/contact_book/blob/master/screenshots/actions.png" width="250"> 
